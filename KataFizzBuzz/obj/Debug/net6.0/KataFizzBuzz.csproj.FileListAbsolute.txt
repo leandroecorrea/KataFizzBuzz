@@ -1,0 +1,12 @@
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.deps.json
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.dll
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\bin\Debug\net6.0\KataFizzBuzz.pdb
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.AssemblyInfo.cs
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.dll
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\refint\KataFizzBuzz.dll
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\KataFizzBuzz.pdb
+C:\Users\leand\Documents\Quark\KataFizzBuzz\KataFizzBuzz\obj\Debug\net6.0\ref\KataFizzBuzz.dll
